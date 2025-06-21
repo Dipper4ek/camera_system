@@ -6,7 +6,7 @@ import requests
 from flask import Flask, Response
 import platform
 import yagmail
-
+#kj[
 
 EMAIL_SENDER = 'itworkermykola@gmail.com'
 EMAIL_PASSWORD = 'golov200811'
